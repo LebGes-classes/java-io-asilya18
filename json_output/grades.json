@@ -1,0 +1,31 @@
+[ {
+  "name" : "5",
+  "studentID" : 1,
+  "subjectID" : 1,
+  "id" : 1
+}, {
+  "name" : "4",
+  "studentID" : 2,
+  "subjectID" : 2,
+  "id" : 2
+}, {
+  "name" : "3",
+  "studentID" : 3,
+  "subjectID" : 3,
+  "id" : 3
+}, {
+  "name" : "5",
+  "studentID" : 4,
+  "subjectID" : 4,
+  "id" : 4
+}, {
+  "name" : "4",
+  "studentID" : 5,
+  "subjectID" : 5,
+  "id" : 5
+}, {
+  "name" : "4",
+  "studentID" : 4,
+  "subjectID" : 5,
+  "id" : 6
+} ]
